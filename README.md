@@ -412,6 +412,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RTG5PkirnqApehdsUVz/FA","k":"RzwijxpXn85ucQ4ksi5GHw"},{"kty":"oct","kid":"N6KHTpHu3LqVXO6t5VlOpg","k":"Kn/usPRxe92BL6qdqogBLQ"},{"kty":"oct","kid":"krqSlZmIs9zGg8hs5UDjog","k":"pLqHlWcUanlM4qKLkCFwqA"},{"kty":"oct","kid":"sNpgK32OTeaae8OySz1wvA","k":"twT3SwOwvmqRa2cKXaXu+Q"},{"kty":"oct","kid":"qs4I+CsohuJ34Ss1ZcfHRQ","k":"5KwVUJUn1fOxGxfQM1T/sA"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
+
 ========================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
