@@ -129,17 +129,17 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 ===============================================================================
 
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 1
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 2
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 3
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -149,61 +149,61 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 4
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 5
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 6
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 7
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 8
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
  
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 9
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
  
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 10
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 11
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 12
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 12
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 13
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -212,39 +212,39 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 14
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 14
 https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 15 
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 15 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 16
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 16
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 17
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 17
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 18
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 18
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 19
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 19
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",|OL| LIVE 20
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 20
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
 
 ====================================================================================================================
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 1
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -253,7 +253,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
 https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 2 
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -261,69 +261,69 @@ https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm
 https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 3
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 4
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 4
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 5
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 5
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 6 
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 6 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 7 
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 7 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 8 
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 8 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003e5d66d7501ff2930c80e9b5609fc:32661be41b5b713dcd88683cd389af21
 https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 9
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 10
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 11
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 11
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330457&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 12
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 12
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330458&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 13
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 13
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330459&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 14
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 14
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",|EPL| LIVE 15
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Top League",EPL LIVE 15
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -332,7 +332,7 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE
 
 ===============================================================================================================================
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 1
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -340,7 +340,7 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
 https://srtv.my.id/vd/play.mpd?id=6685&type=dash
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 2
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -348,7 +348,7 @@ https://srtv.my.id/vd/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
 https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 3
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -356,58 +356,58 @@ https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
 https://srtv.my.id/vd/play.mpd?id=6786&type=dash
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 4
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 4
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 5
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 5
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 6 
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 6 
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 7
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 8
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 9
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 10
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 11
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 12
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LGPDhBuQwsvxFZadz3ERxQ","k":"tx3xGfme5xJ+d6U5jSWAHg"},{"kty":"oct","kid":"8e9ytdWdsgMkNR57W9BNgA","k":"gEY5W13F1WWxaRuoe8SXuQ"},{"kty":"oct","kid":"AxzO7igq5WxWuYReDwM+0A","k":"im9fSEhkxYE2mYwDEyD09g"},{"kty":"oct","kid":"xtJWXPWGhrVJSEucDWPTuA","k":"f048YK7p2qX2K4K98YEL0w"},{"kty":"oct","kid":"I9ioEUXoLWH18zkkEigFOQ","k":"Wb/7P1V/7GUD/m92poiBog"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 13
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml/4+5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"+udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof/0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi/k1JwslM9Vr0c/Q","k":"uIP7+bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",|CL| LIVE 14
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RTG5PkirnqApehdsUVz/FA","k":"RzwijxpXn85ucQ4ksi5GHw"},{"kty":"oct","kid":"N6KHTpHu3LqVXO6t5VlOpg","k":"Kn/usPRxe92BL6qdqogBLQ"},{"kty":"oct","kid":"krqSlZmIs9zGg8hs5UDjog","k":"pLqHlWcUanlM4qKLkCFwqA"},{"kty":"oct","kid":"sNpgK32OTeaae8OySz1wvA","k":"twT3SwOwvmqRa2cKXaXu+Q"},{"kty":"oct","kid":"qs4I+CsohuJ34Ss1ZcfHRQ","k":"5KwVUJUn1fOxGxfQM1T/sA"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
@@ -418,10 +418,10 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",|LALIGA| LIVE 1
+#EXTINF:-1 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 1
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",|LALIGA| LIVE 2
+#EXTINF:-1 group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
@@ -429,28 +429,28 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",|LALIGA| LIVE 7
+#EXTINF:-1 group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 7
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",|LALIGA| LIVE 3
+#EXTINF:-1 group-title="|EVENT| Top League" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 3
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Top League",|LALIGA| LIVE 4
+#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Top League",LALIGA LIVE 4
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Top League",|LALIGA| LIVE 5
+#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Top League",LALIGA LIVE 5
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Top League",|LALIGA| LIVE 6
+#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Top League",LALIGA LIVE 6
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 =========================================== SPORTS ID ===========================================
