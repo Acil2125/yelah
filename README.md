@@ -1,47 +1,19 @@
 Matchday, 2 Februari
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",21:00 Chelsea vs Wolverhampton Wanderers
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",22:00 Iran vs Qatar
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",21:00 Man United vs Westham United
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 Chelsea vs Aston Villa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 Real Madrid vs Atletico Madrid
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",23:30 Arsenal vs Liverpool
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Saarbrucken vs Borussia M'gladbach
+https://s.id/kompastv_shareext-m3u8
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Inter Milan vs Juventus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",00:00 Lazio  vs Atlanta
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",21:00 Napoli vs Verona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 
 ===============================================================================
@@ -74,6 +46,15 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Leverkusen vs Stuttgart
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",19:00 Borneo vs Persija
+https://s.id/indosiar_shareext-m3u8
+
 
 
 
