@@ -94,13 +94,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1",LIVE 4 (BRI)
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1",LIVE 3 (BRI)
+https://s.id/indosiar_shareext-m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1",LIVE 3 (BRI)
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1",LIVE 4 (BRI)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 ===============================================================================
@@ -169,13 +169,13 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
 
 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 1
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 10
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 2
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 9
 http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 3
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -199,23 +199,23 @@ https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
 https://srtv.my.id/vd/play.mpd?id=6786&type=dash
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 6
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
 #EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 7
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 8 
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 3 
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 9
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 10
+#EXTINF:0 group-logo="" group-title="|EVENT| Top League" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
