@@ -70,41 +70,11 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
 ===============================================================================
 
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",22:30 Qatar vs Uzbekistan
+#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",22:00 Jordan vs Korea Republic
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",18:30 Iran vs Japan
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
-
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",19:30 Tottenham vs Everton
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",22:00 Newcastle United vs Luton Town
-http://mytv-extra.com:80/t12mgxyb335/9832948789/378288
-
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",00:30 Barcelona vs Alaves
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",00:00 Milan vs Frosinone
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
-#EXTINF:-1 group-title="Matchday, 3 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",00:00 Bayern Munchen vs Borussia M'gladbach
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 
 
@@ -681,7 +651,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi Sports
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="|SPORTS| Mix" ,LA LIGA PREMIER- PARAMOUNT+ 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
