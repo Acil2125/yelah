@@ -13,6 +13,22 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Saarbrucken vs Borussia M'gladbach
 https://link.zozotv.xyz:443/rozila969/abc12345/143
 
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:30 Atlético Madrid vs Athletic Club
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",1:00 Al Ta'ee vs Al Ittihad
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 PSG vs Brest
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LGPDhBuQwsvxFZadz3ERxQ","k":"tx3xGfme5xJ+d6U5jSWAHg"},{"kty":"oct","kid":"8e9ytdWdsgMkNR57W9BNgA","k":"gEY5W13F1WWxaRuoe8SXuQ"},{"kty":"oct","kid":"AxzO7igq5WxWuYReDwM+0A","k":"im9fSEhkxYE2mYwDEyD09g"},{"kty":"oct","kid":"xtJWXPWGhrVJSEucDWPTuA","k":"f048YK7p2qX2K4K98YEL0w"},{"kty":"oct","kid":"I9ioEUXoLWH18zkkEigFOQ","k":"Wb/7P1V/7GUD/m92poiBog"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 
 
@@ -30,25 +46,21 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 ===============================================================================
 
-#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",22:00 Jordan vs Korea Republic
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+#EXTINF:-1 group-title="Matchday, 9 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 Cadiz vs Real Betis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Leverkusen vs Stuttgart
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 group-title="Matchday, 9 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Selernitana vs Empoli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",19:00 Borneo vs Persija
-https://s.id/indosiar_shareext-m3u8
+#EXTINF:-1 group-title="Matchday, 9 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:30 Dortmund vs Freiburg
+https://link.zozotv.xyz:443/rozila969/abc12345/384
 
-#EXTINF:-1 group-title="Matchday, 6 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",15:00 Madura vs Rans
-https://link.zozotv.xyz:443/rozila969/abc12345/45
-
-
-
-
+#EXTINF:-1 group-title="Matchday, 9 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 Marseille vs Metz
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216430
 
 ===============================================================================
 
