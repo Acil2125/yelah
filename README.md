@@ -871,7 +871,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sports50)/manifest_hd.mpd
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sports50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="|SPORTS| International", TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
