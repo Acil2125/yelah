@@ -30,49 +30,33 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 ===============================================================================
 
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",21:00 Arsenal vs Westham United
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",23:30 Aston Villa vs Man United
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",20:00 Getafe vs Celta Vigo
-https://link.zozotv.xyz:443/rozila969/abc12345/384
-
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",0:30 Sevilla vs Atletico Madrid
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 Barcelona vs Granda
+#EXTINF:-1 group-title="Matchday, 14 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 PSG vs Real Socieded
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",0:00 Atlanta vs Genoa
+#EXTINF:-1 group-title="Matchday, 14 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",3:00 Lazio vs Bayern Munchen
+#EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s",Dazn De 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 group-title="Matchday, 14 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",01:00 Fiorentina vs Bologna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
-
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",2:45 Milan vs Napoli
+#EXTINF:-1 group-title="Matchday, 14 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",1:00 Al Nassr vs Al Feiha
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-
-#EXTINF:-1 group-title="Matchday, 11 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",18:30 Fiorentina vs Frosinone
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 
 
@@ -335,7 +319,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
-http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+http://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
