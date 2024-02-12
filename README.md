@@ -41,6 +41,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
+
 #EXTINF:-1 group-title="Matchday, 14 Februari" tvg-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-hd-live-broadcast-pattern-png-image_2473441.jpg",01:00 Fiorentina vs Bologna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
