@@ -75,7 +75,6 @@
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 13 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Real Madrid vs RB Leipzig
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-
 #EXTINF:-1 group-logo="" group-title="Matchday, 13 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Man City vs Kobenhavn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
