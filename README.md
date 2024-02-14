@@ -910,7 +910,7 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0su8VFOBqkuC63yrdbW0KiouUb-fYH3-dLlxzCdWggg&s",Ubeaten TV
+#EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0su8VFOBqkuC63yrdbW0KiouUb-fYH3-dLlxzCdWggg&s",Unbeaten TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
 
 
@@ -936,6 +936,56 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="|SPORTS| Fight", DAZN COMBAT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="|SPORTS| Fight" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0su8VFOBqkuC63yrdbW0KiouUb-fYH3-dLlxzCdWggg&s",Unbeaten TV
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
+
+#EXTINF:-1 tvg-name="🥊" group-title="|SPORTS| Fight" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp",MFight Network 🇺🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png",Fite 24/7 🇺🇸
+https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
+https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network US
+http://193.58.152.27:7788/WWE/index.m3u8
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling WWE 1
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling WWE  2
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 1
+http://209.222.97.92:16493/Combate
+
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 2
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1&amp;f=.ch
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi UFC
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-name="♠️" tvg-id="" group-title="|SPORTS| Poker" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png",Poker Go
+https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="♠️" tvg-id="" group-title="|SPORTS| Poker" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png",WPT
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-name="♠️" tvg-id="" group-title="|SPORTS| Poker" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/wpt.webp",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
 
 =========================================== TSN SPORTS ===========================================
 
