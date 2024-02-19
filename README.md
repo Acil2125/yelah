@@ -4,12 +4,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 19 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Athlethic Club vs Girona
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
